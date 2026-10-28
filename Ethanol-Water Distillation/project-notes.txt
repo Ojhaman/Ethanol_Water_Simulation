@@ -1,0 +1,4 @@
+Project: Ethanol-Water Distillation
+Purpose: Simulate how a distillation column separates an ethanol-water mixture.
+Project type: Simulation only; no physical distillation was performed.
+Software: DWSIM

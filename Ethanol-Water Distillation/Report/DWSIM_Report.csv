@@ -1,0 +1,460 @@
+Object: BOTTOMS
+Temperature,97.4888,C
+Pressure,1.01325,bar
+Mass Flow,11014.8,kg/h
+Molar Flow,602.04,kmol/h
+Volumetric Flow,13.4889,m3/h
+Mixture Molar Fraction,,
+Ethanol,0.01,
+Water,0.990001,
+Density (Mixture),816.581,kg/m3
+Molecular Weight (Mixture),18.2958,kg/kmol
+Specific Enthalpy (Mixture),302.176,kJ/kg
+Specific Entropy (Mixture),0.815285,kJ/[kg.K]
+Molar Enthalpy (Mixture),5528.57,kJ/kmol
+Molar Entropy (Mixture),14.9163,kJ/[kmol.K]
+Thermal Conductivity (Mixture),0.654878,W/[m.K]
+Molar Fraction (Vapor),,
+Ethanol,0.0944926,
+Water,0.905507,
+Density (Vapor),0.679539,kg/m3
+Molecular Weight (Vapor),20.6661,kg/kmol
+Specific Enthalpy (Vapor),2245.29,kJ/kg
+Specific Entropy (Vapor),6.05834,kJ/[kg.K]
+Molar Enthalpy (Vapor),46401.3,kJ/kmol
+Molar Entropy (Vapor),125.202,kJ/[kmol.K]
+Thermal Conductivity (Vapor),0.0241973,W/[m.K]
+Kinematic Viscosity (Vapor),1.86822E-05,m2/s
+Dynamic Viscosity (Vapor),1.26953E-05,Pa.s
+Heat Capacity (Vapor),1.8569,kJ/[kg.K]
+Heat Capacity Ratio (Vapor),1.29153,
+Mass Flow (Vapor),1.23522,kg/h
+Molar Flow (Vapor),0.0597702,kmol/h
+Volumetric Flow (Vapor),1.81773,m3/h
+Compressibility Factor (Vapor),0.99038,
+Molar Fraction (Vapor),9.92795E-05,
+Mass Fraction (Vapor),0.000112141,
+Volumetric Fraction (Vapor),0.134757,
+Molar Fraction (Overall Liquid),,
+Ethanol,0.0099916,
+Water,0.990008,
+Density (Overall Liquid),943.654,kg/m3
+Molecular Weight (Overall Liquid),18.2956,kg/kmol
+Specific Enthalpy (Overall Liquid),301.958,kJ/kg
+Specific Entropy (Overall Liquid),0.814697,kJ/[kg.K]
+Molar Enthalpy (Overall Liquid),5524.5,kJ/kmol
+Molar Entropy (Overall Liquid),14.9053,kJ/[kmol.K]
+Thermal Conductivity (Overall Liquid),0.65494,W/[m.K]
+Kinematic Viscosity (Overall Liquid),3.0285E-07,m2/s
+Dynamic Viscosity (Overall Liquid),0.000285785,Pa.s
+Heat Capacity (Overall Liquid),4.19165,kJ/[kg.K]
+Heat Capacity Ratio (Overall Liquid),1,
+Mass Flow (Overall Liquid),11013.6,kg/h
+Molar Flow (Overall Liquid),601.98,kmol/h
+Volumetric Flow (Overall Liquid),11.6712,m3/h
+Compressibility Factor (Overall Liquid),0.000745131,
+Molar Fraction (Overall Liquid),0.999901,
+Mass Fraction (Overall Liquid),0.999888,
+Volumetric Fraction (Overall Liquid),0.865242,
+Molar Fraction (Liquid 1),,
+Ethanol,0.0099916,
+Water,0.990008,
+Density (Liquid 1),943.654,kg/m3
+Molar Weight (Liquid 1),18.2956,kg/kmol
+Specific Enthalpy (Liquid 1),301.958,kJ/kg
+Specific Entropy (Liquid 1),0.814697,kJ/[kg.K]
+Molar Enthalpy (Liquid 1),5524.5,kJ/kmol
+Molar Entropy (Liquid 1),14.9053,kJ/[kmol.K]
+Thermal Conductivity (Liquid 1),0.65494,W/[m.K]
+Kinematic Viscosity (Liquid 1),3.0285E-07,m2/s
+Dynamic Viscosity (Liquid 1),0.000285785,Pa.s
+Heat Capacity (Liquid 1),4.19165,kJ/[kg.K]
+Heat Capacity Ratio (Liquid 1),1,
+Mass Flow (Liquid 1),11013.6,kg/h
+Molar Flow (Liquid 1),601.98,kmol/h
+Volumetric Flow (Liquid 1),11.6712,m3/h
+Compressibility Factor (Liquid 1),0.000745131,
+Molar Fraction (Liquid 1),0.999901,
+Mass Fraction (Liquid 1),0.999888,
+Volumetric Fraction (Liquid 1),0.865242,
+Molar Fraction (Liquid 2),,
+Ethanol,0,
+Water,0,
+Density (Liquid 2),0,kg/m3
+Molar Weight (Liquid 2),0,kg/kmol
+Specific Enthalpy (Liquid 2),0,kJ/kg
+Specific Entropy (Liquid 2),0,kJ/[kg.K]
+Molar Enthalpy (Liquid 2),0,kJ/kmol
+Molar Entropy (Liquid 2),0,kJ/[kmol.K]
+Thermal Conductivity (Liquid 2),0,W/[m.K]
+Kinematic Viscosity (Liquid 2),0,m2/s
+Dynamic Viscosity (Liquid 2),0,Pa.s
+Heat Capacity (Liquid 2),0,kJ/[kg.K]
+Heat Capacity Ratio (Liquid 2),NaN,
+Mass Flow (Liquid 2),0,kg/h
+Molar Flow (Liquid 2),0,kmol/h
+Volumetric Flow (Liquid 2),0,m3/h
+Compressibility Factor (Liquid 2),0,
+Molar Fraction (Liquid 2),0,
+Mass Fraction (Liquid 2),0,
+Volumetric Fraction (Liquid 2),0,
+Molar Fraction (Aqueous),,
+Ethanol,0,
+Water,0,
+Density (Aqueous),0,kg/m3
+Molecular Weight (Aqueous),0,kg/kmol
+Specific Enthalpy (Aqueous),0,kJ/kg
+Specific Entropy (Aqueous),0,kJ/[kg.K]
+Molar Enthalpy (Aqueous),0,kJ/kmol
+Molar Entropy (Aqueous),0,kJ/[kmol.K]
+Thermal Conductivity (Aqueous),0,W/[m.K]
+Kinematic Viscosity (Aqueous),0,m2/s
+Dynamic Viscosity (Aqueous),0,Pa.s
+Heat Capacity (Aqueous),0,kJ/[kg.K]
+Heat Capacity Ratio (Aqueous),NaN,
+Mass Flow (Aqueous),0,kg/h
+Molar Flow (Aqueous),0,kmol/h
+Volumetric Flow (Aqueous),0,m3/h
+Compressibility Factor (Aqueous),0,
+Molar Fraction (Aqueous),0,
+Aqueous Mass Fraction,0,
+Aqueous Volumetric Fraction,0,
+Molar Fraction (Solid),,
+Ethanol,0,
+Water,0,
+Molar Fraction (Overall Liquid) / Water,0.990008,
+Molar Fraction (Liquid 1) / Ethanol,0.0099916,
+Molar Fraction (Liquid 1) / Water,0.990008,
+Molar Fraction (Liquid 2) / Ethanol,0,
+Molar Fraction (Liquid 2) / Water,0,
+Molar Fraction (Aqueous) / Ethanol,0,
+Molar Fraction (Aqueous) / Water,0,
+Mass Fraction (Vapor) / Ethanol,0.210641,
+Mass Fraction (Vapor) / Water,0.789359,
+Mass Fraction (Overall Liquid) / Ethanol,0.0251589,
+Mass Fraction (Overall Liquid) / Water,0.974841,
+Mass Fraction (Liquid 1) / Ethanol,0.0251589,
+Mass Fraction (Liquid 1) / Water,0.974841,
+Mass Fraction (Liquid 2) / Ethanol,0,
+Mass Fraction (Liquid 2) / Water,0,
+Mass Fraction (Aqueous) / Ethanol,0,
+Mass Fraction (Aqueous) / Water,0,
+Molar Flow (Vapor) / Ethanol,0.00564784,kmol/h
+
+Object: DISTILLATE
+Temperature,78.6135,C
+Pressure,1.01325,bar
+Mass Flow,18221.7,kg/h
+Molar Flow,397.959,kmol/h
+Volumetric Flow,23.7987,m3/h
+Mixture Molar Fraction,,
+Ethanol,0.989998,
+Water,0.01,
+Density (Mixture),765.66,kg/m3
+Molecular Weight (Mixture),45.7878,kg/kmol
+Specific Enthalpy (Mixture),145.205,kJ/kg
+Specific Entropy (Mixture),0.412791,kJ/[kg.K]
+Molar Enthalpy (Mixture),6648.61,kJ/kmol
+Molar Entropy (Mixture),18.9008,kJ/[kmol.K]
+Thermal Conductivity (Mixture),0.156997,W/[m.K]
+Molar Fraction (Vapor),,
+Ethanol,0.995543,
+Water,0.0044573,
+Density (Vapor),0,kg/m3
+Molecular Weight (Vapor),0,kg/kmol
+Specific Enthalpy (Vapor),0,kJ/kg
+Specific Entropy (Vapor),0,kJ/[kg.K]
+Molar Enthalpy (Vapor),0,kJ/kmol
+Molar Entropy (Vapor),0,kJ/[kmol.K]
+Thermal Conductivity (Vapor),0,W/[m.K]
+Kinematic Viscosity (Vapor),0,m2/s
+Dynamic Viscosity (Vapor),0,Pa.s
+Heat Capacity (Vapor),0,kJ/[kg.K]
+Heat Capacity Ratio (Vapor),NaN,
+Mass Flow (Vapor),0,kg/h
+Molar Flow (Vapor),0,kmol/h
+Volumetric Flow (Vapor),0,m3/h
+Compressibility Factor (Vapor),0,
+Molar Fraction (Vapor),0,
+Mass Fraction (Vapor),0,
+Volumetric Fraction (Vapor),0,
+Molar Fraction (Overall Liquid),,
+Ethanol,0.989998,
+Water,0.01,
+Density (Overall Liquid),765.66,kg/m3
+Molecular Weight (Overall Liquid),45.7878,kg/kmol
+Specific Enthalpy (Overall Liquid),145.205,kJ/kg
+Specific Entropy (Overall Liquid),0.412791,kJ/[kg.K]
+Molar Enthalpy (Overall Liquid),6648.61,kJ/kmol
+Molar Entropy (Overall Liquid),18.9008,kJ/[kmol.K]
+Thermal Conductivity (Overall Liquid),0.156997,W/[m.K]
+Kinematic Viscosity (Overall Liquid),5.68926E-07,m2/s
+Dynamic Viscosity (Overall Liquid),0.000435604,Pa.s
+Heat Capacity (Overall Liquid),3.01362,kJ/[kg.K]
+Heat Capacity Ratio (Overall Liquid),1,
+Mass Flow (Overall Liquid),18221.7,kg/h
+Molar Flow (Overall Liquid),397.959,kmol/h
+Volumetric Flow (Overall Liquid),23.7987,m3/h
+Compressibility Factor (Overall Liquid),0.00201369,
+Molar Fraction (Overall Liquid),1,
+Mass Fraction (Overall Liquid),1,
+Volumetric Fraction (Overall Liquid),1,
+Molar Fraction (Liquid 1),,
+Ethanol,0.989998,
+Water,0.01,
+Density (Liquid 1),765.66,kg/m3
+Molar Weight (Liquid 1),45.7878,kg/kmol
+Specific Enthalpy (Liquid 1),145.205,kJ/kg
+Specific Entropy (Liquid 1),0.412791,kJ/[kg.K]
+Molar Enthalpy (Liquid 1),6648.61,kJ/kmol
+Molar Entropy (Liquid 1),18.9008,kJ/[kmol.K]
+Thermal Conductivity (Liquid 1),0.156997,W/[m.K]
+Kinematic Viscosity (Liquid 1),5.68926E-07,m2/s
+Dynamic Viscosity (Liquid 1),0.000435604,Pa.s
+Heat Capacity (Liquid 1),3.01362,kJ/[kg.K]
+Heat Capacity Ratio (Liquid 1),1,
+Mass Flow (Liquid 1),18221.7,kg/h
+Molar Flow (Liquid 1),397.959,kmol/h
+Volumetric Flow (Liquid 1),23.7987,m3/h
+Compressibility Factor (Liquid 1),0.00201369,
+Molar Fraction (Liquid 1),1,
+Mass Fraction (Liquid 1),1,
+Volumetric Fraction (Liquid 1),1,
+Molar Fraction (Liquid 2),,
+Ethanol,0,
+Water,0,
+Density (Liquid 2),0,kg/m3
+Molar Weight (Liquid 2),0,kg/kmol
+Specific Enthalpy (Liquid 2),0,kJ/kg
+Specific Entropy (Liquid 2),0,kJ/[kg.K]
+Molar Enthalpy (Liquid 2),0,kJ/kmol
+Molar Entropy (Liquid 2),0,kJ/[kmol.K]
+Thermal Conductivity (Liquid 2),0,W/[m.K]
+Kinematic Viscosity (Liquid 2),0,m2/s
+Dynamic Viscosity (Liquid 2),0,Pa.s
+Heat Capacity (Liquid 2),0,kJ/[kg.K]
+Heat Capacity Ratio (Liquid 2),NaN,
+Mass Flow (Liquid 2),0,kg/h
+Molar Flow (Liquid 2),0,kmol/h
+Volumetric Flow (Liquid 2),0,m3/h
+Compressibility Factor (Liquid 2),0,
+Molar Fraction (Liquid 2),0,
+Mass Fraction (Liquid 2),0,
+Volumetric Fraction (Liquid 2),0,
+Molar Fraction (Aqueous),,
+Ethanol,0,
+Water,0,
+Density (Aqueous),0,kg/m3
+Molecular Weight (Aqueous),0,kg/kmol
+Specific Enthalpy (Aqueous),0,kJ/kg
+Specific Entropy (Aqueous),0,kJ/[kg.K]
+Molar Enthalpy (Aqueous),0,kJ/kmol
+Molar Entropy (Aqueous),0,kJ/[kmol.K]
+Thermal Conductivity (Aqueous),0,W/[m.K]
+Kinematic Viscosity (Aqueous),0,m2/s
+Dynamic Viscosity (Aqueous),0,Pa.s
+Heat Capacity (Aqueous),0,kJ/[kg.K]
+Heat Capacity Ratio (Aqueous),NaN,
+Mass Flow (Aqueous),0,kg/h
+Molar Flow (Aqueous),0,kmol/h
+Volumetric Flow (Aqueous),0,m3/h
+Compressibility Factor (Aqueous),0,
+Molar Fraction (Aqueous),0,
+Aqueous Mass Fraction,0,
+Aqueous Volumetric Fraction,0,
+Molar Fraction (Solid),,
+Ethanol,0,
+Water,0,
+Molar Fraction (Overall Liquid) / Water,0.01,
+Molar Fraction (Liquid 1) / Ethanol,0.989998,
+Molar Fraction (Liquid 1) / Water,0.01,
+Molar Fraction (Liquid 2) / Ethanol,0,
+Molar Fraction (Liquid 2) / Water,0,
+Molar Fraction (Aqueous) / Ethanol,0,
+Molar Fraction (Aqueous) / Water,0,
+Mass Fraction (Vapor) / Ethanol,0.998252,
+Mass Fraction (Vapor) / Water,0.00174779,
+Mass Fraction (Overall Liquid) / Ethanol,0.996065,
+Mass Fraction (Overall Liquid) / Water,0.00393451,
+Mass Fraction (Liquid 1) / Ethanol,0.996065,
+Mass Fraction (Liquid 1) / Water,0.00393451,
+Mass Fraction (Liquid 2) / Ethanol,0,
+Mass Fraction (Liquid 2) / Water,0,
+Mass Fraction (Aqueous) / Ethanol,0,
+Mass Fraction (Aqueous) / Water,0,
+Molar Flow (Vapor) / Ethanol,0,kmol/h
+
+Object: FEED
+Temperature,20,C
+Pressure,1.01325,bar
+Mass Flow,29236.5,kg/h
+Molar Flow,1000,kmol/h
+Volumetric Flow,33.2975,m3/h
+Mixture Molar Fraction,,
+Ethanol,0.4,
+Water,0.6,
+Density (Mixture),878.04,kg/m3
+Molecular Weight (Mixture),29.2365,kg/kmol
+Specific Enthalpy (Mixture),-15.2394,kJ/kg
+Specific Entropy (Mixture),-0.0519849,kJ/[kg.K]
+Molar Enthalpy (Mixture),-445.547,kJ/kmol
+Molar Entropy (Mixture),-1.51986,kJ/[kmol.K]
+Thermal Conductivity (Mixture),0.260433,W/[m.K]
+Molar Fraction (Vapor),,
+Ethanol,0.625602,
+Water,0.374398,
+Density (Vapor),0,kg/m3
+Molecular Weight (Vapor),0,kg/kmol
+Specific Enthalpy (Vapor),0,kJ/kg
+Specific Entropy (Vapor),0,kJ/[kg.K]
+Molar Enthalpy (Vapor),0,kJ/kmol
+Molar Entropy (Vapor),0,kJ/[kmol.K]
+Thermal Conductivity (Vapor),0,W/[m.K]
+Kinematic Viscosity (Vapor),0,m2/s
+Dynamic Viscosity (Vapor),0,Pa.s
+Heat Capacity (Vapor),0,kJ/[kg.K]
+Heat Capacity Ratio (Vapor),NaN,
+Mass Flow (Vapor),0,kg/h
+Molar Flow (Vapor),0,kmol/h
+Volumetric Flow (Vapor),0,m3/h
+Compressibility Factor (Vapor),0,
+Molar Fraction (Vapor),0,
+Mass Fraction (Vapor),0,
+Volumetric Fraction (Vapor),0,
+Molar Fraction (Overall Liquid),,
+Ethanol,0.4,
+Water,0.6,
+Density (Overall Liquid),878.04,kg/m3
+Molecular Weight (Overall Liquid),29.2365,kg/kmol
+Specific Enthalpy (Overall Liquid),-15.2394,kJ/kg
+Specific Entropy (Overall Liquid),-0.0519849,kJ/[kg.K]
+Molar Enthalpy (Overall Liquid),-445.547,kJ/kmol
+Molar Entropy (Overall Liquid),-1.51986,kJ/[kmol.K]
+Thermal Conductivity (Overall Liquid),0.260433,W/[m.K]
+Kinematic Viscosity (Overall Liquid),1.23196E-06,m2/s
+Dynamic Viscosity (Overall Liquid),0.00108171,Pa.s
+Heat Capacity (Overall Liquid),3.05813,kJ/[kg.K]
+Heat Capacity Ratio (Overall Liquid),1,
+Mass Flow (Overall Liquid),29236.5,kg/h
+Molar Flow (Overall Liquid),1000,kmol/h
+Volumetric Flow (Overall Liquid),33.2975,m3/h
+Compressibility Factor (Overall Liquid),0.00107085,
+Molar Fraction (Overall Liquid),1,
+Mass Fraction (Overall Liquid),1,
+Volumetric Fraction (Overall Liquid),1,
+Molar Fraction (Liquid 1),,
+Ethanol,0.4,
+Water,0.6,
+Density (Liquid 1),878.04,kg/m3
+Molar Weight (Liquid 1),29.2365,kg/kmol
+Specific Enthalpy (Liquid 1),-15.2394,kJ/kg
+Specific Entropy (Liquid 1),-0.0519849,kJ/[kg.K]
+Molar Enthalpy (Liquid 1),-445.547,kJ/kmol
+Molar Entropy (Liquid 1),-1.51986,kJ/[kmol.K]
+Thermal Conductivity (Liquid 1),0.260433,W/[m.K]
+Kinematic Viscosity (Liquid 1),1.23196E-06,m2/s
+Dynamic Viscosity (Liquid 1),0.00108171,Pa.s
+Heat Capacity (Liquid 1),3.05813,kJ/[kg.K]
+Heat Capacity Ratio (Liquid 1),1,
+Mass Flow (Liquid 1),29236.5,kg/h
+Molar Flow (Liquid 1),1000,kmol/h
+Volumetric Flow (Liquid 1),33.2975,m3/h
+Compressibility Factor (Liquid 1),0.00107085,
+Molar Fraction (Liquid 1),1,
+Mass Fraction (Liquid 1),1,
+Volumetric Fraction (Liquid 1),1,
+Molar Fraction (Liquid 2),,
+Ethanol,0,
+Water,0,
+Density (Liquid 2),0,kg/m3
+Molar Weight (Liquid 2),0,kg/kmol
+Specific Enthalpy (Liquid 2),0,kJ/kg
+Specific Entropy (Liquid 2),0,kJ/[kg.K]
+Molar Enthalpy (Liquid 2),0,kJ/kmol
+Molar Entropy (Liquid 2),0,kJ/[kmol.K]
+Thermal Conductivity (Liquid 2),0,W/[m.K]
+Kinematic Viscosity (Liquid 2),0,m2/s
+Dynamic Viscosity (Liquid 2),0,Pa.s
+Heat Capacity (Liquid 2),0,kJ/[kg.K]
+Heat Capacity Ratio (Liquid 2),NaN,
+Mass Flow (Liquid 2),0,kg/h
+Molar Flow (Liquid 2),0,kmol/h
+Volumetric Flow (Liquid 2),0,m3/h
+Compressibility Factor (Liquid 2),0,
+Molar Fraction (Liquid 2),0,
+Mass Fraction (Liquid 2),0,
+Volumetric Fraction (Liquid 2),0,
+Molar Fraction (Aqueous),,
+Ethanol,0,
+Water,0,
+Density (Aqueous),0,kg/m3
+Molecular Weight (Aqueous),0,kg/kmol
+Specific Enthalpy (Aqueous),0,kJ/kg
+Specific Entropy (Aqueous),0,kJ/[kg.K]
+Molar Enthalpy (Aqueous),0,kJ/kmol
+Molar Entropy (Aqueous),0,kJ/[kmol.K]
+Thermal Conductivity (Aqueous),0,W/[m.K]
+Kinematic Viscosity (Aqueous),0,m2/s
+Dynamic Viscosity (Aqueous),0,Pa.s
+Heat Capacity (Aqueous),0,kJ/[kg.K]
+Heat Capacity Ratio (Aqueous),NaN,
+Mass Flow (Aqueous),0,kg/h
+Molar Flow (Aqueous),0,kmol/h
+Volumetric Flow (Aqueous),0,m3/h
+Compressibility Factor (Aqueous),0,
+Molar Fraction (Aqueous),0,
+Aqueous Mass Fraction,0,
+Aqueous Volumetric Fraction,0,
+Molar Fraction (Solid),,
+Ethanol,0,
+Water,0,
+Molar Fraction (Overall Liquid) / Water,0.6,
+Molar Fraction (Liquid 1) / Ethanol,0.4,
+Molar Fraction (Liquid 1) / Water,0.6,
+Molar Fraction (Liquid 2) / Ethanol,0,
+Molar Fraction (Liquid 2) / Water,0,
+Molar Fraction (Aqueous) / Ethanol,0,
+Molar Fraction (Aqueous) / Water,0,
+Mass Fraction (Vapor) / Ethanol,0.810352,
+Mass Fraction (Vapor) / Water,0.189648,
+Mass Fraction (Overall Liquid) / Ethanol,0.630286,
+Mass Fraction (Overall Liquid) / Water,0.369714,
+Mass Fraction (Liquid 1) / Ethanol,0.630286,
+Mass Fraction (Liquid 1) / Water,0.369714,
+Mass Fraction (Liquid 2) / Ethanol,0,
+Mass Fraction (Liquid 2) / Water,0,
+Mass Fraction (Aqueous) / Ethanol,0,
+Mass Fraction (Aqueous) / Water,0,
+Molar Flow (Vapor) / Ethanol,0,kmol/h
+
+Object: Condensor Duty
+Energy Flow,19331.6,kW
+
+Object: REBOILER DUTY
+Energy Flow,21114.9,kW
+
+Object: SHORTCUT DISTILLATION COLUMN
+Condenser Volume,1,m3
+Reboiler Volume,1,m3
+Condenser UA,10000,
+Reboiler UA,10000,
+Initialize using Inlet Stream,-1,
+Reset Content,0,
+Reflux Ratio,3.5,
+Heavy Key Molar Fraction,0.01,
+Light Key Molar Fraction,0.01,
+Condenser Pressure,1.01325,bar
+Reboiler Pressure,1.01325,bar
+Minimum Reflux Ratio,1.49366,
+Minimum Stages,10.0018,
+Optimal Feed Stage,6.46696,
+Stripping Liquid Molar Flow,2533.62,kmol/h
+Rectify Liquid Molar Flow,1392.86,kmol/h
+Stripping Vapor Molar Flow,1931.58,kmol/h
+Rectify Vapor Molar Flow,1790.82,kmol/h
+Condenser Duty,19331.6,kW
+Reboiler Duty,21114.9,kW
+Actual Stages,14.1856,
+Stage Height,0.5,m
+Estimated Height,8.09282,m
+Estimated Diameter,3.96617,m
